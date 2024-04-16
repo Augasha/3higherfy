@@ -6,7 +6,9 @@ function Sidebar() {
         <header>
             <div className='sidebar'>
                 <h1>Playlist</h1>
-
+                <div className='playlist'>
+                    
+                </div>
             </div>
 
         </header>
